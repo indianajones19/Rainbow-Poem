@@ -5,7 +5,7 @@ Pink
 Orange
 Blue
 Green
-Unicorn
+Unicorn - changing in Unicorn branch
 Yellow
 Red
 These are the colors of the rainbow.
